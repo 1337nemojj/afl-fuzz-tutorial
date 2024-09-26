@@ -64,6 +64,11 @@ cd build
 cmake with afl-fuzz
 ```
 cmake -DAFL_COMPILE=ON -DCMAKE_C_COMPILER=afl-clang-fast -DCMAKE_CXX_COMPILER=afl-clang-fast++ ..
+```
+**OR**
+```
+cmake -DAFL_COMPILE=ON -DCMAKE_C_COMPILER=afl-gcc -DCMAKE_CXX_COMPILER=afl-g++ ..
+```
 make
 ```
 ## Create input/ with testcase.txt
