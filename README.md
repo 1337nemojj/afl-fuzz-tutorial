@@ -69,6 +69,8 @@ cmake -DAFL_COMPILE=ON -DCMAKE_C_COMPILER=afl-clang-fast -DCMAKE_CXX_COMPILER=af
 ```
 cmake -DAFL_COMPILE=ON -DCMAKE_C_COMPILER=afl-gcc -DCMAKE_CXX_COMPILER=afl-g++ ..
 ```
+then
+```
 make
 ```
 ## Create input/ with testcase.txt
