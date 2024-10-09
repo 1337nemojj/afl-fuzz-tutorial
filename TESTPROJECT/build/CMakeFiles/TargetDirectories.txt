@@ -1,0 +1,3 @@
+/home/redmine/TESTPROJECT/build/CMakeFiles/QtApp.dir
+/home/redmine/TESTPROJECT/build/CMakeFiles/edit_cache.dir
+/home/redmine/TESTPROJECT/build/CMakeFiles/rebuild_cache.dir
