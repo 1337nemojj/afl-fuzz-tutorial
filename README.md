@@ -18,9 +18,10 @@ Commands for install afl-fuzz, Qt, Ubuntu setting:
 ```
 sudo apt install afl
 sudo apt install clang
-sudo apt install build-essential gcc-plugin-dev cmake
+sudo apt install build-essential cmake
 sudo apt install python3.11 python3.11-dev python3.11-venv
 sudo apt install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
+### optinal: gcc-plugin-dev
 
 ```
 ```
