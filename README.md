@@ -16,7 +16,7 @@ fuzzing_test/
 ---
 Commands for install afl-fuzz, Qt, Ubuntu setting:
 ```
-sudo apt install afl
+sudo apt install afl++
 sudo apt install clang
 sudo apt install build-essential cmake
 sudo apt install python3.11 python3.11-dev python3.11-venv
